@@ -29,6 +29,4 @@ iot-smartbulb-debug-tools/
 │   ├── sample_ble_dump.log
 │   ├── sample_wifi_capture.pcap
 │   └── sample_hci_btsnoop.log
-└── assets/
-    └── screenshots/
 ```
